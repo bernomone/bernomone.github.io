@@ -1,0 +1,18 @@
+theme: minima
+title: Bernomone's Projects
+description: A collection of data analysis and web projects
+url: "https://bernomone.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CLAUDE.md
