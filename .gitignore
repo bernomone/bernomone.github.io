@@ -1,0 +1,9 @@
+citybreaking/_site/
+citybreaking/Gemfile.lock
+citybreaking/node_modules/
+citybreaking/.sass-cache/
+citybreaking/.jekyll-cache/
+citybreaking/.jekyll-metadata
+
+.DS_Store
+citybreaking/.DS_Store
